@@ -1,63 +1,31 @@
-# Retroverse Studios: Crafting Retro Wonders
+# RetroVerse Studios
 
-Indie game studio exploring the intersection of nostalgia, technology, and creative play
+**Where Classic Pixels Meet Next-Gen Choices**
 
-At Retroverse Studios, we're on a mission to reignite the magic of retro gaming and interactive experiences, blending nostalgia with cutting-edge technology to create immersive worlds that inspire, educate, and delight.
+Independent game studio from Perth, Australia. We fuse retro-pixel aesthetics with modern AI-driven mechanics — reigniting the charm of classic games while innovating with data-driven decision systems.
 
-## Focus Areas
-- Retro-inspired game development
-- Interactive digital experiences
-- Simulations and decision-making mechanics
-- Cybersecurity education through gameplay
-- Multimedia and cross-platform applications
-
-## Repositories
-
-### Web Applications
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [swipe-verse](https://github.com/retroverse-studios/swipe-verse) | Multiverse card game where players swipe left/right to make ... | Python | 0 |
-| [swipeverse.app](https://github.com/retroverse-studios/swipeverse.app) | Promotional landing page for fictional mobile game with resp... | CSS | 0 |
-| [retroverse.studio](https://github.com/retroverse-studios/retroverse.studio) | Responsive website for fictional indie game studio with retr... | CSS | 0 |
-| [reality-reigns](https://github.com/retroverse-studios/reality-reigns) | Swipe-based survival card game where you balance four stats ... | TypeScript | 0 |
-| [visual-cataloguer](https://github.com/retroverse-studios/visual-cataloguer) | Processes photos of physical collections into searchable dat... | Python | 0 |
-| [lane-read](https://github.com/retroverse-studios/lane-read) | Tracks bowling lane reads and shot decisions for competitive... | HTML | 0 |
-
-### Libraries
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [virtual-lanes](https://github.com/retroverse-studios/virtual-lanes) | Simulates ten-pin bowling games, tournaments, and leagues wi... | Python | 0 |
-
-### Other Projects
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [retroverse.garden](https://github.com/retroverse-studios/retroverse.garden) | RetroVerse Gardens 🌸🚀 - A living digital playground explorin... | CSS | 0 |
-
-### CLI Tools
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [glomph-maze](https://github.com/retroverse-studios/glomph-maze) | Terminal-based Pac-Man clone with ncurses rendering, maze na... | C | 0 |
-
-### Learning Resources
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [incident-zero](https://github.com/retroverse-studios/incident-zero) | Teaches cybersecurity concepts through cooperative/competiti... | HTML | 0 |
-
-### TypeScript Projects
-
-| Repository | Description | Language | Stars |
-|------------|-------------|----------|-------|
-| [karaoke-stage](https://github.com/retroverse-studios/karaoke-stage) | Plays karaoke files with synchronized lyrics, supporting CDG... | TypeScript | 0 |
-
-## Stats
-- **Repositories**: 11
-- **Total Stars**: 0
-- **Languages**: C, CSS, HTML, Python, TypeScript
+[retroverse.studio](https://retroverse.studio)
 
 ---
-*Generated with [gh-toolkit](https://github.com/michael-borck/gh-toolkit) on 2026-02-12*
+
+## Games
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**SwipeVerse**](https://github.com/retroverse-studios/swipeverse) | Card-based survival strategy — swipe to shape the fate of entire realities. Multi-provider AI deck generation (Gemini, OpenAI, Claude, Ollama). | TypeScript, React, Vite, PWA |
+| [**Stella's Evolution**](https://github.com/retroverse-studios/stellas-evolution) | Four-part puzzle-platformer for real Atari 2600 hardware, inspired by Thomas Was Alone. Each game targets a different bankswitching tier. | 6502 Assembly (design phase) |
+| [**Glomph Maze**](https://github.com/retroverse-studios/glomph-maze) | Terminal Pac-Man with 241 maze variants, 4 ghost AI personalities, and curses rendering. Python rewrite of a classic C codebase. | Python, C |
+
+## Tools
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Visual Cataloguer**](https://github.com/retroverse-studios/visual-cataloguer) | Batch-catalogue physical collections (retro games, vinyl, books) using QR dividers and AI vision identification. | Python, Claude/Ollama, FastAPI |
+| [**Karaoke Stage**](https://github.com/retroverse-studios/karaoke-stage) | Karaoke player with CDG/LRC format support, real-time pitch detection, singing scores, and themed categories. | TypeScript, React, Electron |
+
+## Studio Site
+
+| Project | Description |
+|---------|-------------|
+| [retroverse.studio](https://github.com/retroverse-studios/retroverse.studio) | Studio website — vanilla HTML/CSS/JS with retro pixel aesthetic |
+
