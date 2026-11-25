@@ -2,9 +2,9 @@
 
 **Where Classic Pixels Meet Next-Gen Choices**
 
-Independent game studio from Perth, Australia. We fuse retro-pixel aesthetics with modern AI-driven mechanics — reigniting the charm of classic games while innovating with data-driven decision systems.
+Independent game studio from Perth, Australia. We build retro-pixel games, practical tools for old hobbies, and the occasional strange experiment.
 
-[retroverse.studio](https://retroverse.studio)
+[retroverse.studio](https://retroverse.studio) · [Tools & Apps](https://retroverse.studio/#tools)
 
 ---
 
@@ -17,16 +17,19 @@ Independent game studio from Perth, Australia. We fuse retro-pixel aesthetics wi
 | [**Glomph Maze**](https://github.com/retroverse-studios/glomph-maze) | Terminal Pac-Man with 241 maze variants, 4 ghost AI personalities, and curses rendering. Python rewrite of a classic C codebase. | Python, C |
 | [**Incident Zero**](https://github.com/retroverse-studios/incident-zero) | Cooperative cybersecurity strategy game — one player attacks, the rest defend. 6 modules, 171 cards, MITRE ATT&CK framework. Tabletop + digital (AI Threat Orchestrator coming). | Markdown, Web (planned) |
 
-## Tools
+## Tools & Apps
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Visual Cataloguer**](https://github.com/retroverse-studios/visual-cataloguer) | Batch-catalogue physical collections (retro games, vinyl, books) using QR dividers and AI vision identification. | Python, Claude/Ollama, FastAPI |
-| [**Karaoke Stage**](https://github.com/retroverse-studios/karaoke-stage) | Karaoke player with CDG/LRC format support, real-time pitch detection, singing scores, and themed categories. | TypeScript, React, Electron |
+| [**SlotForge**](https://github.com/retroverse-studios/slotforge) | **New.** Design AFX-compatible HO slot car tracks with real piece geometry, closure checks, lane lengths, 3D preview and 1:1 build sheets. Then run race night. [Live](https://slotforge.retroverse.studio) | TypeScript, React, Three.js, PWA |
+| [**Virtual Lanes**](https://github.com/retroverse-studios/virtual-lanes) | Phone-first bowling companion. Bowl real frames against simulated rivals, journal every shot, and track the stats that matter, all offline. [Live](https://virtuallanes.retroverse.studio) | SvelteKit, PWA, offline |
+| [**NUMERON**](https://github.com/retroverse-studios/numeron) | Numerology exploration in a phosphor-CRT terminal. Five traditions side by side, with the Barnum effect explained. [Live](https://numeron.retroverse.studio) | Web, desktop |
+| [**ASTRON**](https://github.com/retroverse-studios/astron) | Astrology chart engine running the real Swiss Ephemeris in the browser. Natal charts, transits and synastry. [Live](https://astron.retroverse.studio) | Web, desktop, CLI |
+| [**Visual Cataloguer**](https://github.com/retroverse-studios/visual-cataloguer) | Batch-catalogue physical collections (retro games, vinyl, books) using QR dividers and AI vision identification. [Live](https://visualcataloguer.retroverse.studio) | Python, Claude/Ollama, FastAPI |
+| [**Karaoke Stage**](https://github.com/retroverse-studios/karaoke-stage) | Karaoke player with CDG/LRC format support, real-time pitch detection, singing scores, and themed categories. [Live](https://karaokestage.retroverse.studio) | TypeScript, React, Electron |
 
 ## Studio Site
 
 | Project | Description |
 |---------|-------------|
-| [retroverse.studio](https://github.com/retroverse-studios/retroverse.studio) | Studio website — vanilla HTML/CSS/JS with retro pixel aesthetic |
-
+| [retroverse.studio](https://github.com/retroverse-studios/retroverse.studio) | Multi-mode studio site: terminal, BBS, 8-bit and forum. One HTML document, four realities. |
